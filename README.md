@@ -49,6 +49,8 @@ Explore the complete 3D bungalow model through Autodesk Viewer:
 https://autode.sk/4iMrI0F
 
 ## Etabs and Safe Report
+Structural analysis of a bungalow using ETABS (superstructure) and SAFE (foundation), including model screenshots, EQ + X displacement output and a Word report.
+
 [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793873/Bungalow_Analysis_Report.pdf)
 
 ## Project Quantity takeoff
