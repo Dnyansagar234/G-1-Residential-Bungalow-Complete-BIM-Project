@@ -52,6 +52,8 @@ https://autode.sk/4iMrI0F
 [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793873/Bungalow_Analysis_Report.pdf)
 
 ## Project Quantity takeoff
+Prepared a detailed quantity takeoff for a residential bungalow project, column and beam concrete, slab, wall areas, and shuttering quantities. Calculated material quantities for cement, sand, and aggregate to support accurate estimation.
+
 [Quantity Takeoff.xlsx](https://github.com/user-attachments/files/34797009/Quantity.Takeoff.xlsx)
 
 
