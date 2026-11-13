@@ -50,5 +50,7 @@ https://autode.sk/4iMrI0F
 This project demonstrates my practical skills in BIM modeling, structural analysis, MEP integration, and multidisciplinary building coordination as a Civil Engineer and BIM Modeler.
 
 **Project Category:** Residential Building  
-**Disciplines:** Architectural | Structural | MEP  
-**Analysis Software:** ETABS
+**Disciplines:** Architectural | Structural | MEP 
+**Analysis Software:** ETABS & safe
+ [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793536/Bungalow_Analysis_Report.pdf)
+
