@@ -46,6 +46,10 @@ Explore the complete 3D bungalow model through Autodesk Viewer:
 
 https://autode.sk/4iMrI0F
 
+## Etabs and Safe Report
+[Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793873/Bungalow_Analysis_Report.pdf)
+
+
 ## Project Purpose
 This project demonstrates my practical skills in BIM modeling, structural analysis, MEP integration, and multidisciplinary building coordination as a Civil Engineer and BIM Modeler.
 
