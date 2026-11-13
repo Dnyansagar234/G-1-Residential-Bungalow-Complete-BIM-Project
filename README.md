@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Enscape_ss view" src="https://github.com/user-attachments/assets/fb11d502-b8fb-4f2b-8ca5-fef74c3ada04" /><img width="1920" height="1080" alt="Enscape_2025-08-09-20-44-19" src="https://github.com/user-attachments/assets/b4db35de-78cb-4611-8998-3c35f42e0ca0" /><img width="1920" height="1080" alt="Enscape_2025-08-09-19-52-01" src="https://github.com/user-attachments/assets/317a0baf-d7ed-424e-8a8c-000643eb2d8c" /><img width="2048" height="2159" alt="12345 - Copy - Copy - Copy" src="https://github.com/user-attachments/assets/40cf92da-2b63-4f72-9a42-b5b0b332e342" /># Residential Bungalow – Complete BIM Project
-
 ## Project Overview
 This project showcases a multidisciplinary BIM model of a residential bungalow, integrating Architectural, Structural, and MEP disciplines into a coordinated 3D building model.
 
