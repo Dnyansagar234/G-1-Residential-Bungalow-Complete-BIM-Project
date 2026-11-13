@@ -51,6 +51,9 @@ https://autode.sk/4iMrI0F
 ## Etabs and Safe Report
 [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793873/Bungalow_Analysis_Report.pdf)
 
+## Project Quantity takeoff
+[Quantity Takeoff.xlsx](https://github.com/user-attachments/files/34797009/Quantity.Takeoff.xlsx)
+
 
 ## Project Purpose
 This project demonstrates my practical skills in BIM modeling, structural analysis, MEP integration, and multidisciplinary building coordination as a Civil Engineer and BIM Modeler.
