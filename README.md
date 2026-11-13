@@ -51,7 +51,8 @@ This project demonstrates my practical skills in BIM modeling, structural analys
 
 **Project Category:** Residential Building  
 **Disciplines:** Architectural | Structural | MEP 
-
 **Analysis Software:** ETABS & safe
- [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793536/Bungalow_Analysis_Report.pdf)
+
+ [Bungalow_Analysis_Report.pdf](https://github.com/user-
+ attachments/files/34793536/Bungalow_Analysis_Report.pdf)
 
