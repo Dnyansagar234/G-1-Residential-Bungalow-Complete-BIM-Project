@@ -73,6 +73,27 @@ Structural analysis of a bungalow using ETABS (superstructure) and SAFE (foundat
 
 [Bungalow_Analysis_Report.pdf](https://github.com/user-attachments/files/34793873/Bungalow_Analysis_Report.pdf)
 
+## Clash Detection (Navisworks)
+
+The 3D bungalow model (`banglow.nwc`) was checked for clashes in **Autodesk Navisworks Manage 2020** using the Clash Detective tool.
+
+<img width="1916" height="1041" alt="Screenshot 2026-11-13 165943" src="https://github.com/user-attachments/assets/568c0d8a-7393-47ba-af1d-d3d83ff9c44b" />
+
+### Tests performed
+
+| Test name | Checks | Status | Clashes found |
+|-----------|--------|--------|---------------|
+| Column vs Beam | Structural columns against beams | Done | 0 |
+| Beam vs Wall | Beams against walls | Done | 0 |
+| MEP vs RCC | MEP services against reinforced concrete elements | Done | 0 |
+| Slab vs Flooring | Slabs against floor finishes | Done | 0 |
+
+### About the model view
+
+- Multi-storey bungalow with a terrace and roof-level water tanks
+- Grid lines are shown in the view: letters (A to K) in one direction and numbers (1 to 12) in the other
+- Columns and beams are shown in dark red and blue, with glass railings and window frames in the architectural model
+
 ## Project Quantity takeoff
 Prepared a detailed quantity takeoff for a residential bungalow project, column and beam concrete, slab, wall areas, and shuttering quantities. Calculated material quantities for cement, sand, and aggregate to support accurate estimation.
 
