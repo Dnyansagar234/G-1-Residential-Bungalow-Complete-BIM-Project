@@ -51,6 +51,7 @@ This project demonstrates my practical skills in BIM modeling, structural analys
 
 **Project Category:** Residential Building  
 **Disciplines:** Architectural | Structural | MEP 
+
 **Analysis Software:** ETABS & Safe
 
 
