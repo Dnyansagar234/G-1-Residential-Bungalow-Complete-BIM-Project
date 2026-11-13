@@ -48,6 +48,26 @@ Explore the complete 3D bungalow model through Autodesk Viewer:
 
 https://autode.sk/4iMrI0F
 
+### How to use the viewer
+
+1. Click the link above. It opens in your web browser, and no software install is needed.
+2. If you are asked to sign in, use a free Autodesk account.
+3. Wait a few seconds for the model to load.
+
+| Action | How |
+|--------|-----|
+| Rotate (orbit) | Left-click and drag |
+| Pan | Hold the middle mouse button, or Shift + left-click, and drag |
+| Zoom | Scroll the mouse wheel |
+| Reset the view | Click the **Home** icon |
+| Hide or isolate parts | Open the **Model Browser**, then right-click an item |
+| Check dimensions | Use the **Measure** tool in the toolbar |
+| Cut through the model | Use the **Section** tool |
+| Separate the parts | Use the **Explode** tool |
+
+On a phone or tablet, use one finger to rotate and two fingers to pan and zoom.
+
+
 ## Etabs and Safe Report
 Structural analysis of a bungalow using ETABS (superstructure) and SAFE (foundation), including model screenshots, EQ + X displacement output and a Word report.
 
