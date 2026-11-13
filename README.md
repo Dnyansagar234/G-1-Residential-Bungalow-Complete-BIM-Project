@@ -40,11 +40,8 @@ The architectural design was provided by the architect. I worked on developing t
 - Residential building BIM workflow.
 
 ## Rener Image Using Enscape
-
-<img width="1920" height="1080" alt="Enscape_ss view" src="https://github.com/user-attachments/assets/3f14b3aa-73cb-4eaf-a0b9-4c384aed3b3d" />
-<img width="1920" height="1080" alt="Enscape_2025-08-09-20-44-19" src="https://github.com/user-attachments/assets/c4834ae9-f638-4d10-a027-05e963ab9eeb" />
-<img width="1920" height="1080" alt="Enscape_2025-08-09-19-52-01" src="https://github.com/user-attachments/assets/5c49e3e7-ad12-486b-92d8-a0bf383a6235" />
-
+<img width="1920" height="1080" alt="Enscape_ss view" src="https://github.com/user-attachments/assets/2ce118c4-39f7-4605-8089-f2995893f49d" />
+<img width="1920" height="1080" alt="Enscape_2025-08-07-00-19-46" src="https://github.com/user-attachments/assets/5bd4719f-aa8b-404f-bbe4-3202cfa109b2" />
 
 ## 3D Project Viewer
 Explore the complete 3D bungalow model through Autodesk Viewer:
