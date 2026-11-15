@@ -46,7 +46,7 @@ The architectural design was provided by the architect. I worked on developing t
 ## 3D Project Viewer
 Explore the complete 3D bungalow model through Autodesk Viewer:
 
-https://autode.sk/4iMrI0F
+[https://autode.sk/4iMrI0F](https://autode.sk/4sQirJr)
 
 ### How to use the viewer
 
